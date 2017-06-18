@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/xylk/prosemirror-firebase#readme",
   "dependencies": {
-    "prosemirror-compress": "0.0.1"
+    "prosemirror-collab": "^0.21.0",
+    "prosemirror-compress": "https://github.com/bmcmahen/prosemirror-compress.git",
+    "prosemirror-model": "^0.21.0",
+    "prosemirror-state": "^0.21.0",
+    "prosemirror-transform": "^0.21.1"
   },
   "devDependencies": {
     "buble": "^0.15.2",
